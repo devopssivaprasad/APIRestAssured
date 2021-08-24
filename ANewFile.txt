@@ -1,1 +1,3 @@
 This is a new file and to be added to stage and checked-in to Repo.
+
+To check the merge conflicts.
