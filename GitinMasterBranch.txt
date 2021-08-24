@@ -1,3 +1,10 @@
 Fine for conflits by Master.
 
 I have some thing on the newbranch but not in Master. Lets see it what is there.
+
+No data of Master
+
+Fine for conflits by Master.
+
+This time merging it from Master.
+
