@@ -1,1 +1,3 @@
 Fine for conflits by Master.
+
+I have some thing on the newbranch but not in Master. Lets see it what is there.
